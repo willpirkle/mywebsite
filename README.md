@@ -2,4 +2,5 @@
 
 some upsdates done locally
 
-remowotindfa'
+Using git and git hub together.
+how do I push this to Git with Atom?
